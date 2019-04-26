@@ -1,0 +1,9 @@
+Package: me.thanos.infinitystone
+Name: InfinityStone
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>=11.0)
+Version: 0.2.2
+Architecture: iphoneos-arm
+Description: Hides Endgame Spoilers.
+Maintainer: Thanos
+Author: Thanos
+Section: Tweaks
